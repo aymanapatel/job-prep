@@ -1,11 +1,16 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
-
-
 int main() {
-    int x;
-    cin >> x;
-    cout<< "Hi" <<x;
+    string val;
+    
+    // Read word by word until the end of the file
+    while (cin >> val) {
+        cout << val << " ";
+    }
+    
+    cout << endl; 
+    return 0;
 }
-
