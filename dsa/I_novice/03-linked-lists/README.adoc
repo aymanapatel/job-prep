@@ -9,3 +9,7 @@ Singly/doubly lists, pointers, cycle detection, slow/fast pointers.
 
 == Notes
 Add diagrams and example code.
+
+== AI Chats for learning
+
+link:Linked list with fast slow pointer problems[https://t3.chat/share/7twt9ppv99]
