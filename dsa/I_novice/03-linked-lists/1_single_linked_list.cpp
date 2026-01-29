@@ -7,9 +7,10 @@ struct Node {
     
     int data; // data
     Node* next; // pointer
+    Node* prev; // pointer
 
     // Constructor
-    Node(int val): data(val), next(nullptr) {}
+    Node(int val): data(val), next(nullptr), prev(nullptr) {}
 
 
 };
@@ -19,7 +20,7 @@ class LinkedList {
     public:
         Node* head = nullptr;
 
-        void insert(int val) {
+        void insertBack(int val) {
             Node* newNode = new Node(val);
        
             // Empty
@@ -55,7 +56,7 @@ int main() {
 
     while (cin >> val) {
         cerr << "Debug";
-        linked_list.insert(val);
+        linked_list.insertBack(val);
     }
     
     linked_list.display();
