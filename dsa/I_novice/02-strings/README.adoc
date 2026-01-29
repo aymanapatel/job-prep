@@ -1,0 +1,11 @@
+= Strings
+:tags: novice, strings
+
+== Summary
+String traversal, substrings, KMP basics, parsing.
+
+== Problems
+Add canonical problems here.
+
+== Notes
+Use templates/asciidoc_template.adoc as a starter.

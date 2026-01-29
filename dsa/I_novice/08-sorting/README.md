@@ -1,0 +1,10 @@
+# Sorting & Searching
+
+## Summary
+Bubble, selection, insertion, merge sort, quicksort basics. Binary search and linear search.
+
+## Problems
+- Sort array, find kth smallest, merge intervals, search in sorted array.
+
+## Notes
+Understand time/space complexity and stable vs unstable sorting.

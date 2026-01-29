@@ -1,0 +1,5 @@
+# Advanced
+
+Topics for competitive programming and research-level algorithms: segment trees, suffix arrays, flow algorithms, decomposition techniques.
+
+Use `templates/` to scaffold deep-dive notes and complexity proofs.

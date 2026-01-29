@@ -1,0 +1,11 @@
+= Arrays
+:tags: novice, arrays
+
+== Summary
+Basic array operations, two-pointers, sliding window, prefix sums.
+
+== Problems
+Add examples and difficulty tags here.
+
+== Notes
+Start from templates/asciidoc_template.adoc.

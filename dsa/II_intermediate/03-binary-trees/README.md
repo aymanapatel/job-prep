@@ -1,0 +1,12 @@
+---
+title: Binary Trees
+tags: [intermediate, trees]
+---
+
+# Binary Trees
+
+## Summary
+Balanced trees, tree traversal patterns, recursion vs iteration, tree-building problems.
+
+## Problems
+- Serialize/deserialize, iterative traversals, reconstruct from traversals.

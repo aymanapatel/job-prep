@@ -1,0 +1,12 @@
+---
+title: Heavy-Light Decomposition (HLD)
+tags: [advanced, hld]
+---
+
+# Heavy-Light Decomposition
+
+## Summary
+HLD for path queries on trees, combining with segment trees or BIT for range operations.
+
+## Problems
+- Path queries, subtree queries, HLD implementation notes.

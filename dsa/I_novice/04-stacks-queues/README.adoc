@@ -1,0 +1,11 @@
+= Stacks & Queues
+:tags: novice, stacks, queues
+
+== Summary
+LIFO/FIFO structures, applications in parsing and BFS.
+
+== Problems
+- Evaluate postfix, implement queue with stacks.
+
+== Notes
+Include sample implementations and complexity analysis.

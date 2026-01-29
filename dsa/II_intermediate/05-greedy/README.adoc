@@ -1,0 +1,8 @@
+= Greedy Algorithms
+:tags: intermediate, greedy
+
+== Summary
+Greedy-choice property, typical greedy templates and proofs of correctness.
+
+== Problems
+Interval scheduling, coin change (canonical vs non-canonical).
